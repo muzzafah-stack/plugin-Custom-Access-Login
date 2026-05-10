@@ -1,0 +1,20 @@
+.hcal-badge {
+    display: inline-block;
+    padding: 3px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #fff;
+}
+.hcal-badge-active {
+    background-color: #46b450;
+}
+.hcal-badge-inactive {
+    background-color: #dc3232;
+}
+.hcal-text-danger {
+    color: #dc3232;
+}
+.hcal-text-danger:hover {
+    color: #a00;
+}
